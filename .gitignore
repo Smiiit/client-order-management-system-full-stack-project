@@ -1,0 +1,3 @@
+# custome files and directories to ignore
+node_modules
+.env
